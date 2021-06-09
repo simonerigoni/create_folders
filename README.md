@@ -6,7 +6,7 @@ Many times you have to create a list of folders starting from a menù or a list 
 
 ## Software and Libraries
 
-This project uses Python 3.8.5 and the following libraries:
+This project uses Python 3.9.5 and the following libraries:
 * [pyinstaller](https://www.pyinstaller.org/)
 * [argparse](https://docs.python.org/3/library/argparse.html)
 
