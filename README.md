@@ -26,6 +26,10 @@ From any folder of your PC you can open a command promt and run `create_folders.
 
 ![example](images/example.PNG)
 
+## List of activities
+
+In the [TODO.md](TODO.md) file you can find the list of tasks and on going activities.
+
 ## Licensing and Acknowledgements
 
 Have a look at [LICENSE.md](LICENSE.md).
