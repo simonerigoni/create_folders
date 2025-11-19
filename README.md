@@ -16,12 +16,16 @@ More informations in `requirements.txt`. To create it I have used `python -m pip
 
 To build the .exe file and place it in **%USERPROFILE%\AppData\Local\Programs\Python\Python39\Scripts** you have to run `deploy.cmd`
 
+## Testing
+
+No test implemented.
+
 ## Running the code
 
 From any folder of your PC you can open a command promt and run `create_folders.exe`, then you have to paste the list of folder you want to create in the current folder. You can also use the `create_folders.exe --enumerate` to enumerate the folders and `create_folders.exe -h` to view the help
 
 ![example](images/example.PNG)
 
-## Acknowledgements
+## Licensing and Acknowledgements
 
-Thank you
+Have a look at [LICENSE.md](LICENSE.md).
