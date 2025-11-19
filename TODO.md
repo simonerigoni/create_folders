@@ -1,6 +1,6 @@
 # Create folders
 
-## Introduction
+## TODO
 
 Overview of the status of the tasks of this project.
 
