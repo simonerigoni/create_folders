@@ -1,0 +1,19 @@
+[project]
+name = "create-folders"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.1",
+    "ruff>=0.14.6",
+]
+
+[tool.pyright]
+exclude = [".venv"]
+pythonVersion = "3.13"
+venvPath = "."
+venv = ".venv"
