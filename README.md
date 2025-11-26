@@ -7,12 +7,14 @@ Many times you have to create a list of folders starting from a menù or a list 
 ## Software and Libraries
 
 This project uses Python 3.11 and the following libraries:
+
 * [pyinstaller](https://www.pyinstaller.org/)
 * [argparse](https://docs.python.org/3/library/argparse.html)
 
 ## Local configuration
 
 To setup a new local enviroment and install all dependencies you can run `.\my_scripts\Set-Up.ps1`. It will install:
+
 * [Python](https://www.python.org/)
 * [uv](https://docs.astral.sh/uv/)
 * [Pre-commit](https://pre-commit.com/)
