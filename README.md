@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Many times you have to create a list of folders starting from a menù or a list of topics. The idea is to run an exe file from any folder on the PC and paste in the command window the folders name you want to create. An option to enumerate the folders would be handy 
+Many times you have to create a list of folders starting from a menù or a list of topics. The idea is to run an exe file from any folder on the PC and paste in the command window the folders name you want to create. An option to enumerate the folders would be handy.
 
 ## Software and Libraries
 
-This project uses Python 3.11 and the following libraries:
+This project uses Python 3.11 and the most important packages are:
 
 * [pyinstaller](https://www.pyinstaller.org/)
 * [argparse](https://docs.python.org/3/library/argparse.html)
